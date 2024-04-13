@@ -1,2 +1,2 @@
-# Estruturas-de-Dados
-Exercícios realizados em Estruturas de Dados
+# Coloração 
+Exercícios de coloração utilizando estruturas de dados como filas. 
